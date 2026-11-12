@@ -2,12 +2,20 @@
   "runs": [
     {
       "lens": "Trending in US",
-      "rows": 10
+      "error": "'charmap' codec can't encode characters in position 584-597: character maps to <undefined>"
+    },
+    {
+      "lens": "Trending in US",
+      "rows": 0
     },
     {
       "lens": "Fastest growing",
-      "rows": 30
+      "error": "'charmap' codec can't encode characters in position 22066-22067: character maps to <undefined>"
+    },
+    {
+      "lens": "Fastest growing",
+      "rows": 0
     }
   ],
-  "total_rows": 40
+  "total_rows": 0
 }
