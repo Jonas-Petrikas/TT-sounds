@@ -1,16 +1,8 @@
 {
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "scraped_at": "2026-11-12T08:54:00.428184+00:00",
-=======
-  "scraped_at": "2026-11-12T10:04:25.566283+00:00",
->>>>>>> 72be47ab0d81b9b2ce551ac852063ad158309a09
-=======
-  "scraped_at": "2026-11-17T04:32:09.722357+00:00",
->>>>>>> ebedb457e42a5c32e89b5bb1f79ea29768522597
+  "scraped_at": "2026-11-17T09:10:00.355210+00:00",
   "region": "US",
   "source": "tokchart.com",
-  "count": 0,
+  "count": 16,
   "lenses": [
     {
       "period_days": 7,
@@ -21,5 +13,198 @@
       "label": "Fastest growing"
     }
   ],
-  "sounds": []
+  "sounds": [
+    {
+      "rank": 1,
+      "title": "Original audio",
+      "artist": "by por um propósito",
+      "clip_id": "7703755719484394241",
+      "tiktok_uses": 451000,
+      "tiktok_uses_24h": 98800,
+      "tiktok_link": "https://www.tiktok.com/music/-7703755719484394241",
+      "cover": "https://assets.tokchart.com/images/sounds_data/cover/7a/7ae82e20dea058931a645af7a098d32064f16030d88fe0626bf697d4103c2c1c.webp",
+      "period_days": 7,
+      "tokchart_url": "https://tokchart.com/sounds/por-um-proposito-original-sound-thanksforthemusic_7703755719484394241"
+    },
+    {
+      "rank": 2,
+      "title": "Original audio",
+      "artist": "by . ˖ ꒰𑁬 niki ໒꒱ ˖ .",
+      "clip_id": "7701470458784320288",
+      "tiktok_uses": 526000,
+      "tiktok_uses_24h": 75600,
+      "tiktok_link": "https://www.tiktok.com/music/-7701470458784320288",
+      "cover": "https://assets.tokchart.com/images/sounds_data/cover/f0/f0a37f8907f4e0f4c6ff5c21a67a27ebbd292d2ceedb2fe4f31139d051111623.webp",
+      "period_days": 7,
+      "tokchart_url": "https://tokchart.com/sounds/niki-my-moon-my-man-finneas-cover_7701470458784320288"
+    },
+    {
+      "rank": 3,
+      "title": "Original audio",
+      "artist": "by Krissy’s PNW adventures",
+      "clip_id": "7698905099095673613",
+      "tiktok_uses": 525000,
+      "tiktok_uses_24h": 35400,
+      "tiktok_link": "https://www.tiktok.com/music/-7698905099095673613",
+      "cover": "https://assets.tokchart.com/images/sounds_data/cover/e0/e0dd1f3050f6fdf14b5d0ca7084d51aaa272bb55b3adc5204f47e534d89ab76d.webp",
+      "period_days": 7,
+      "tokchart_url": "https://tokchart.com/sounds/krissys-pnw-adventures-original-sound-krissyspnwadventures_7698905099095673613"
+    },
+    {
+      "rank": 4,
+      "title": "Chopin Nocturne No. 2 Piano Mono",
+      "artist": "moshimo sound design",
+      "clip_id": "6817665487665629186",
+      "tiktok_uses": 7000000,
+      "tiktok_uses_24h": 100000,
+      "tiktok_link": "https://www.tiktok.com/music/-6817665487665629186",
+      "cover": "https://assets.tokchart.com/images/sounds_data/cover/71/71ea6a907f9c0e83f1ec4b76734868733b045054a34c2498ef51eb342eee1f57.webp",
+      "period_days": 7,
+      "tokchart_url": "https://tokchart.com/sounds/moshimo-sound-design-chopin-nocturne-no-2-piano-mono_6817665487665629186"
+    },
+    {
+      "rank": 5,
+      "title": "Original audio",
+      "artist": "by Trendformusic",
+      "clip_id": "7693157397116799762",
+      "tiktok_uses": 191000,
+      "tiktok_uses_24h": 2400,
+      "tiktok_link": "https://www.tiktok.com/music/-7693157397116799762",
+      "cover": "https://assets.tokchart.com/images/sounds_data/cover/56/562fa23c97034c3d1150fba828d126ea97033d2cfa0fe2c8821c68bc046f3a70.webp",
+      "period_days": 7,
+      "tokchart_url": "https://tokchart.com/sounds/trendformusic-original-sound-trendformusic_7693157397116799762"
+    },
+    {
+      "rank": 6,
+      "title": "Original audio",
+      "artist": "by Niki 🐰",
+      "clip_id": "7699845999958706958",
+      "tiktok_uses": 189000,
+      "tiktok_uses_24h": 17400,
+      "tiktok_link": "https://www.tiktok.com/music/-7699845999958706958",
+      "cover": "https://assets.tokchart.com/images/sounds_data/cover/de/de57e829a165c537688f781175c9c0edc4ce5cae2fe782f33497b9228729464c.webp",
+      "period_days": 7,
+      "tokchart_url": "https://tokchart.com/sounds/niki-original-sound-theo60473_7699845999958706958"
+    },
+    {
+      "rank": 7,
+      "title": "Original audio",
+      "artist": "by Jamie Miller",
+      "clip_id": "7665907954083810078",
+      "tiktok_uses": 204000,
+      "tiktok_uses_24h": 9200,
+      "tiktok_link": "https://www.tiktok.com/music/-7665907954083810078",
+      "cover": "https://assets.tokchart.com/images/sounds_data/cover/36/36e2d2f61852b150e82f303c5b51f67793725a71e3a8fa8091d89595156ac566.webp",
+      "period_days": 7,
+      "tokchart_url": "https://tokchart.com/sounds/jamie-miller-babydoll_7665907954083810078"
+    },
+    {
+      "rank": 1,
+      "title": "Original audio",
+      "artist": "by . ˖ ꒰𑁬 niki ໒꒱ ˖ .",
+      "clip_id": "7701470458784320288",
+      "tiktok_uses": 526000,
+      "tiktok_uses_24h": 75600,
+      "tiktok_link": "https://www.tiktok.com/music/-7701470458784320288",
+      "cover": "https://assets.tokchart.com/images/sounds_data/cover/f0/f0a37f8907f4e0f4c6ff5c21a67a27ebbd292d2ceedb2fe4f31139d051111623.webp",
+      "period_days": 30,
+      "tokchart_url": "https://tokchart.com/sounds/niki-my-moon-my-man-finneas-cover_7701470458784320288"
+    },
+    {
+      "rank": 2,
+      "title": "Original audio",
+      "artist": "by por um propósito",
+      "clip_id": "7703755719484394241",
+      "tiktok_uses": 451000,
+      "tiktok_uses_24h": 98800,
+      "tiktok_link": "https://www.tiktok.com/music/-7703755719484394241",
+      "cover": "https://assets.tokchart.com/images/sounds_data/cover/7a/7ae82e20dea058931a645af7a098d32064f16030d88fe0626bf697d4103c2c1c.webp",
+      "period_days": 30,
+      "tokchart_url": "https://tokchart.com/sounds/por-um-proposito-original-sound-thanksforthemusic_7703755719484394241"
+    },
+    {
+      "rank": 3,
+      "title": "Original audio",
+      "artist": "by Krissy’s PNW adventures",
+      "clip_id": "7698905099095673613",
+      "tiktok_uses": 525000,
+      "tiktok_uses_24h": 35400,
+      "tiktok_link": "https://www.tiktok.com/music/-7698905099095673613",
+      "cover": "https://assets.tokchart.com/images/sounds_data/cover/e0/e0dd1f3050f6fdf14b5d0ca7084d51aaa272bb55b3adc5204f47e534d89ab76d.webp",
+      "period_days": 30,
+      "tokchart_url": "https://tokchart.com/sounds/krissys-pnw-adventures-original-sound-krissyspnwadventures_7698905099095673613"
+    },
+    {
+      "rank": 4,
+      "title": "Montagem da Chupeta",
+      "artist": "Lthiago",
+      "clip_id": "7626731639871834113",
+      "tiktok_uses": 1000000,
+      "tiktok_uses_24h": 27183,
+      "tiktok_link": "https://www.tiktok.com/music/-7626731639871834113",
+      "cover": "https://assets.tokchart.com/images/sounds_data/cover/fa/fa388df074c71bc9b444c39fec8c7a7889324f65d23d2900336dc40fba837af5.webp",
+      "period_days": 30,
+      "tokchart_url": "https://tokchart.com/sounds/lthiago-montagem-da-chupeta_7626731639871834113"
+    },
+    {
+      "rank": 5,
+      "title": "Original audio",
+      "artist": "by Alex",
+      "clip_id": "7702583649891912456",
+      "tiktok_uses": 306000,
+      "tiktok_uses_24h": 41500,
+      "tiktok_link": "https://www.tiktok.com/music/-7702583649891912456",
+      "cover": "https://assets.tokchart.com/images/sounds_data/cover/8a/8a7b980c3a122ac174cd64b3f335c8b65499529a6bd8c7b60350aef11c18b3d9.webp",
+      "period_days": 30,
+      "tokchart_url": "https://tokchart.com/sounds/alex-original-sound-alexedits-ae_7702583649891912456"
+    },
+    {
+      "rank": 6,
+      "title": "Original audio",
+      "artist": "by koshal sana 123",
+      "clip_id": "7706014664110443272",
+      "tiktok_uses": 314000,
+      "tiktok_uses_24h": 60200,
+      "tiktok_link": "https://www.tiktok.com/music/-7706014664110443272",
+      "cover": "https://assets.tokchart.com/images/sounds_data/cover/69/69666a1963cf15e6412dd7ce1a30e166c7928c5e6cf8af35793e554b2b5f40d3.webp",
+      "period_days": 30,
+      "tokchart_url": "https://tokchart.com/sounds/koshal-sana-123-original-sound-koshalsana123_7706014664110443272"
+    },
+    {
+      "rank": 7,
+      "title": "Original audio",
+      "artist": "by Andy A.",
+      "clip_id": "7697548777200372487",
+      "tiktok_uses": 285000,
+      "tiktok_uses_24h": 32800,
+      "tiktok_link": "https://www.tiktok.com/music/-7697548777200372487",
+      "cover": "https://assets.tokchart.com/images/sounds_data/cover/11/11d333473b246501f056ca5531644f21f8ba58effa26222f7da25f5308bf50a7.webp",
+      "period_days": 30,
+      "tokchart_url": "https://tokchart.com/sounds/andy-a-original-sound-1justndy_7697548777200372487"
+    },
+    {
+      "rank": 8,
+      "title": "Original audio",
+      "artist": "by Niki 🐰",
+      "clip_id": "7699845999958706958",
+      "tiktok_uses": 189000,
+      "tiktok_uses_24h": 17400,
+      "tiktok_link": "https://www.tiktok.com/music/-7699845999958706958",
+      "cover": "https://assets.tokchart.com/images/sounds_data/cover/de/de57e829a165c537688f781175c9c0edc4ce5cae2fe782f33497b9228729464c.webp",
+      "period_days": 30,
+      "tokchart_url": "https://tokchart.com/sounds/niki-original-sound-theo60473_7699845999958706958"
+    },
+    {
+      "rank": 9,
+      "title": "Original audio",
+      "artist": "by RACING REMIX",
+      "clip_id": "7689812522484632341",
+      "tiktok_uses": 200000,
+      "tiktok_uses_24h": 13100,
+      "tiktok_link": "https://www.tiktok.com/music/-7689812522484632341",
+      "cover": "https://assets.tokchart.com/images/sounds_data/cover/31/31846dafd0bddd65110471994c2711b7b0f1a2c7c0ce6e6d340a6cfe4a1fcd1c.webp",
+      "period_days": 30,
+      "tokchart_url": "https://tokchart.com/sounds/racing-remix-original-sound-racingremix-sskk_7689812522484632341"
+    }
+  ]
 }
