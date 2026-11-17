@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-17T09:10:00.354826+00:00",
+  "checked_at": "2026-11-17T16:06:50.349558+00:00",
   "runs": [
     {
       "lens": "Trending in US",
@@ -13,10 +13,10 @@
       "lens": "Fastest growing",
       "requested_url": "https://tokchart.com/growing",
       "final_url": "https://tokchart.com/tiktok-trending-sounds",
-      "rows": 9,
-      "html_bytes": 84217,
+      "rows": 10,
+      "html_bytes": 84215,
       "raw_html": "debug/raw_30.html"
     }
   ],
-  "total_rows": 16
+  "total_rows": 17
 }

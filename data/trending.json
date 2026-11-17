@@ -1,8 +1,8 @@
 {
-  "scraped_at": "2026-11-17T09:10:00.355210+00:00",
+  "scraped_at": "2026-11-17T16:06:50.349837+00:00",
   "region": "US",
   "source": "tokchart.com",
-  "count": 16,
+  "count": 17,
   "lenses": [
     {
       "period_days": 7,
@@ -185,6 +185,18 @@
     {
       "rank": 8,
       "title": "Original audio",
+      "artist": "by 💞Chardonnay💞",
+      "clip_id": "7694989217901857569",
+      "tiktok_uses": 180000,
+      "tiktok_uses_24h": 33833,
+      "tiktok_link": "https://www.tiktok.com/music/-7694989217901857569",
+      "cover": "https://assets.tokchart.com/images/sounds_data/cover/e1/e1619a1a0620301f5c8270b2ac78983c789cbc860baab658e07f5781a6e2bddf.webp",
+      "period_days": 30,
+      "tokchart_url": "https://tokchart.com/sounds/chardonnay-original-sound-chardonnayxx9_7694989217901857569"
+    },
+    {
+      "rank": 9,
+      "title": "Original audio",
       "artist": "by Niki 🐰",
       "clip_id": "7699845999958706958",
       "tiktok_uses": 189000,
@@ -195,7 +207,7 @@
       "tokchart_url": "https://tokchart.com/sounds/niki-original-sound-theo60473_7699845999958706958"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Original audio",
       "artist": "by RACING REMIX",
       "clip_id": "7689812522484632341",
