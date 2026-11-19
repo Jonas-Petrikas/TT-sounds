@@ -1,12 +1,12 @@
 {
-  "checked_at": "2026-11-19T03:34:24.416593+00:00",
+  "checked_at": "2026-11-19T15:50:20.453226+00:00",
   "runs": [
     {
       "lens": "Trending in US",
       "requested_url": "https://tokchart.com/trending/US",
       "final_url": "https://tokchart.com/tiktok-trending-sounds/united-states",
-      "rows": 6,
-      "html_bytes": 83630,
+      "rows": 5,
+      "html_bytes": 83974,
       "raw_html": "debug/raw_7.html"
     },
     {
@@ -14,9 +14,9 @@
       "requested_url": "https://tokchart.com/growing",
       "final_url": "https://tokchart.com/tiktok-trending-sounds",
       "rows": 10,
-      "html_bytes": 83758,
+      "html_bytes": 83120,
       "raw_html": "debug/raw_30.html"
     }
   ],
-  "total_rows": 16
+  "total_rows": 15
 }
