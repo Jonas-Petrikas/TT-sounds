@@ -1,8 +1,8 @@
 {
-  "scraped_at": "2026-11-22T23:38:43.019982+00:00",
+  "scraped_at": "2026-11-23T10:50:49.347223+00:00",
   "region": "US",
   "source": "tokchart.com",
-  "count": 11,
+  "count": 15,
   "lenses": [
     {
       "period_days": 7,
@@ -16,18 +16,6 @@
   "sounds": [
     {
       "rank": 1,
-      "title": "Original audio",
-      "artist": "by por um propósito",
-      "clip_id": "7703755719484394241",
-      "tiktok_uses": 790000,
-      "tiktok_uses_24h": 48300,
-      "tiktok_link": "https://www.tiktok.com/music/-7703755719484394241",
-      "cover": "https://assets.tokchart.com/images/sounds_data/cover/7a/7ae82e20dea058931a645af7a098d32064f16030d88fe0626bf697d4103c2c1c.webp",
-      "period_days": 7,
-      "tokchart_url": "https://tokchart.com/sounds/por-um-proposito-original-sound-thanksforthemusic_7703755719484394241"
-    },
-    {
-      "rank": 2,
       "title": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]",
       "artist": "Tame Impala & SZA & Justice",
       "clip_id": "7693697225445246977",
@@ -39,36 +27,60 @@
       "tokchart_url": "https://tokchart.com/sounds/justice-tame-impala-sza-king-gizzard-the-lizard-wizard-flower-in-a-hurricane-feat-tame-impala-sza-king-gizzard-the-lizard-wizard-from-gtavi-original-score_7693697225445246977"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "Original audio",
-      "artist": "by . ˖ ꒰𑁬 niki ໒꒱ ˖ .",
-      "clip_id": "7701470458784320288",
-      "tiktok_uses": 844000,
-      "tiktok_uses_24h": 47300,
-      "tiktok_link": "https://www.tiktok.com/music/-7701470458784320288",
-      "cover": "https://assets.tokchart.com/images/sounds_data/cover/f0/f0a37f8907f4e0f4c6ff5c21a67a27ebbd292d2ceedb2fe4f31139d051111623.webp",
+      "artist": "by por um propósito",
+      "clip_id": "7703755719484394241",
+      "tiktok_uses": 829000,
+      "tiktok_uses_24h": 38800,
+      "tiktok_link": "https://www.tiktok.com/music/-7703755719484394241",
+      "cover": "https://assets.tokchart.com/images/sounds_data/cover/7a/7ae82e20dea058931a645af7a098d32064f16030d88fe0626bf697d4103c2c1c.webp",
       "period_days": 7,
-      "tokchart_url": "https://tokchart.com/sounds/niki-my-moon-my-man-finneas-cover_7701470458784320288"
+      "tokchart_url": "https://tokchart.com/sounds/por-um-proposito-original-sound-thanksforthemusic_7703755719484394241"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "boom clap",
       "artist": "˖ . ݁𝜗𝜚. ݁₊",
       "clip_id": "7042173834044164869",
-      "tiktok_uses": 203000,
-      "tiktok_uses_24h": 11300,
+      "tiktok_uses": 228000,
+      "tiktok_uses_24h": 25000,
       "tiktok_link": "https://www.tiktok.com/music/-7042173834044164869",
       "cover": "https://assets.tokchart.com/images/sounds_data/cover/8b/8be84cb2fa6883150aa7290ab6062a0377dbe7844c526164827b323964a8badf.webp",
       "period_days": 7,
       "tokchart_url": "https://tokchart.com/sounds/boom-clap_7042173834044164869"
     },
     {
+      "rank": 4,
+      "title": "Original audio",
+      "artist": "by . ˖ ꒰𑁬 niki ໒꒱ ˖ .",
+      "clip_id": "7701470458784320288",
+      "tiktok_uses": 904000,
+      "tiktok_uses_24h": 60900,
+      "tiktok_link": "https://www.tiktok.com/music/-7701470458784320288",
+      "cover": "https://assets.tokchart.com/images/sounds_data/cover/f0/f0a37f8907f4e0f4c6ff5c21a67a27ebbd292d2ceedb2fe4f31139d051111623.webp",
+      "period_days": 7,
+      "tokchart_url": "https://tokchart.com/sounds/niki-my-moon-my-man-finneas-cover_7701470458784320288"
+    },
+    {
+      "rank": 5,
+      "title": "Original audio",
+      "artist": "by ★",
+      "clip_id": "7432813243158039329",
+      "tiktok_uses": 63000,
+      "tiktok_uses_24h": 8800,
+      "tiktok_link": "https://www.tiktok.com/music/-7432813243158039329",
+      "cover": "https://assets.tokchart.com/images/sounds_data/cover/33/33356c67670e1cad30beacf4a99e39bcf95bb8eca8fa02f3a453b2b9201801a0.webp",
+      "period_days": 7,
+      "tokchart_url": "https://tokchart.com/sounds/cheersto90s-suono-originale-cheersto90s_7432813243158039329"
+    },
+    {
       "rank": 1,
       "title": "Original audio",
       "artist": "by . ˖ ꒰𑁬 niki ໒꒱ ˖ .",
       "clip_id": "7701470458784320288",
-      "tiktok_uses": 844000,
-      "tiktok_uses_24h": 47300,
+      "tiktok_uses": 904000,
+      "tiktok_uses_24h": 60900,
       "tiktok_link": "https://www.tiktok.com/music/-7701470458784320288",
       "cover": "https://assets.tokchart.com/images/sounds_data/cover/f0/f0a37f8907f4e0f4c6ff5c21a67a27ebbd292d2ceedb2fe4f31139d051111623.webp",
       "period_days": 30,
@@ -79,8 +91,8 @@
       "title": "Original audio",
       "artist": "by por um propósito",
       "clip_id": "7703755719484394241",
-      "tiktok_uses": 790000,
-      "tiktok_uses_24h": 48300,
+      "tiktok_uses": 829000,
+      "tiktok_uses_24h": 38800,
       "tiktok_link": "https://www.tiktok.com/music/-7703755719484394241",
       "cover": "https://assets.tokchart.com/images/sounds_data/cover/7a/7ae82e20dea058931a645af7a098d32064f16030d88fe0626bf697d4103c2c1c.webp",
       "period_days": 30,
@@ -115,8 +127,8 @@
       "title": "Original audio",
       "artist": "by DJ PAUL BIGATA OFFICIAL 2.0",
       "clip_id": "7704612694343289601",
-      "tiktok_uses": 327000,
-      "tiktok_uses_24h": 44000,
+      "tiktok_uses": 367000,
+      "tiktok_uses_24h": 40400,
       "tiktok_link": "https://www.tiktok.com/music/-7704612694343289601",
       "cover": "https://assets.tokchart.com/images/sounds_data/cover/87/879bb13dd1b876796c6e7a13667a8aac59317b34d6cac2de2cdb8ec4f83d09ed.webp",
       "period_days": 30,
@@ -124,6 +136,42 @@
     },
     {
       "rank": 6,
+      "title": "G.T.A. – Grand Trance Audio (San AndDreams)",
+      "artist": "Tahara (Br)",
+      "clip_id": "7564113279418877953",
+      "tiktok_uses": 204000,
+      "tiktok_uses_24h": 38000,
+      "tiktok_link": "https://www.tiktok.com/music/-7564113279418877953",
+      "cover": "https://assets.tokchart.com/images/sounds_data/cover/41/4135ab32cdec0bc9c768f4fc11a709277252698cca28ec1c7921cb4986c502aa.webp",
+      "period_days": 30,
+      "tokchart_url": "https://tokchart.com/sounds/tahara-br-gta-grand-trance-audio-san-anddreams_7564113279418877953"
+    },
+    {
+      "rank": 7,
+      "title": "Original audio",
+      "artist": "by ဟိန်းထက်ဇော် (Official)",
+      "clip_id": "7707628449313147666",
+      "tiktok_uses": 273000,
+      "tiktok_uses_24h": 36000,
+      "tiktok_link": "https://www.tiktok.com/music/-7707628449313147666",
+      "cover": "https://assets.tokchart.com/images/sounds_data/cover/b5/b54aed811a1c801c3ab3af880518557fbb5c9ee1de16824e37cc3f4ce1886b1a.webp",
+      "period_days": 30,
+      "tokchart_url": "https://tokchart.com/sounds/heintaetzaw-official-original-sound-wwwheinhtetzaw_7707628449313147666"
+    },
+    {
+      "rank": 8,
+      "title": "MAFIA",
+      "artist": "Soothewave",
+      "clip_id": "7630118852708255745",
+      "tiktok_uses": 2000000,
+      "tiktok_uses_24h": 22357,
+      "tiktok_link": "https://www.tiktok.com/music/-7630118852708255745",
+      "cover": "https://assets.tokchart.com/images/sounds_data/cover/26/26bdd30d30eb071e2cff6ea29d741c7819c705685419c0e8d0fa38b30bfe1b6d.webp",
+      "period_days": 30,
+      "tokchart_url": "https://tokchart.com/sounds/soothewave-mafia_7630118852708255745"
+    },
+    {
+      "rank": 9,
       "title": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]",
       "artist": "Tame Impala & SZA & Justice",
       "clip_id": "7693697225445246977",
@@ -135,16 +183,16 @@
       "tokchart_url": "https://tokchart.com/sounds/justice-tame-impala-sza-king-gizzard-the-lizard-wizard-flower-in-a-hurricane-feat-tame-impala-sza-king-gizzard-the-lizard-wizard-from-gtavi-original-score_7693697225445246977"
     },
     {
-      "rank": 7,
-      "title": "Original audio",
-      "artist": "by ɴᴏᴄʜᴇᴅᴇꜱᴀʟꜱᴀ",
-      "clip_id": "7105744103429671686",
-      "tiktok_uses": 141000,
-      "tiktok_uses_24h": 18200,
-      "tiktok_link": "https://www.tiktok.com/music/-7105744103429671686",
-      "cover": "https://assets.tokchart.com/images/sounds_data/cover/70/709b8c75ae05cbc524d25c9350557e1bbdb87a1c9ca2acd9d43f5938293df343.webp",
+      "rank": 10,
+      "title": "G.T.A. – Grand Trance Audio (San AndDreams)",
+      "artist": "Tahara (Br)",
+      "clip_id": "7564113279418894337",
+      "tiktok_uses": 162000,
+      "tiktok_uses_24h": 24400,
+      "tiktok_link": "https://www.tiktok.com/music/-7564113279418894337",
+      "cover": "https://assets.tokchart.com/images/sounds_data/cover/79/798f3b4bc12da6d8f17b45f64a818c84828b1777728f450c5540f191ec7b3134.webp",
       "period_days": 30,
-      "tokchart_url": "https://tokchart.com/sounds/original-sound-nochedesalsa_7105744103429671686"
+      "tokchart_url": "https://tokchart.com/sounds/tahara-br-gta-grand-trance-audio-san-anddreams_7564113279418894337"
     }
   ]
 }
