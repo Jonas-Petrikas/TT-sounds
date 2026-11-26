@@ -1,8 +1,8 @@
 {
-  "scraped_at": "2026-11-26T10:58:10.621865+00:00",
+  "scraped_at": "2026-11-26T23:01:49.587442+00:00",
   "region": "US",
   "source": "tokchart.com",
-  "count": 13,
+  "count": 16,
   "lenses": [
     {
       "period_days": 7,
@@ -53,6 +53,18 @@
     {
       "rank": 4,
       "title": "Original audio",
+      "artist": "",
+      "clip_id": "7709241492145752845",
+      "tiktok_uses": 125000,
+      "tiktok_uses_24h": 29900,
+      "tiktok_link": "https://www.tiktok.com/music/-7709241492145752845",
+      "cover": "https://assets.tokchart.com/images/sounds_data/cover/16/16e942afa9af6bbc30585b8f716fffde25b210e092aa6868381c619e51fa5d02.webp",
+      "period_days": 7,
+      "tokchart_url": "https://tokchart.com/sounds/original-sound-harpsspams00_7709241492145752845"
+    },
+    {
+      "rank": 5,
+      "title": "Original audio",
       "artist": "by por um propósito",
       "clip_id": "7703755719484394241",
       "tiktok_uses": 954000,
@@ -63,7 +75,7 @@
       "tokchart_url": "https://tokchart.com/sounds/por-um-proposito-original-sound-thanksforthemusic_7703755719484394241"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]",
       "artist": "Tame Impala & SZA & Justice",
       "clip_id": "7693697225445246977",
@@ -161,6 +173,18 @@
     {
       "rank": 8,
       "title": "Original audio",
+      "artist": "",
+      "clip_id": "7709241492145752845",
+      "tiktok_uses": 125000,
+      "tiktok_uses_24h": 29900,
+      "tiktok_link": "https://www.tiktok.com/music/-7709241492145752845",
+      "cover": "https://assets.tokchart.com/images/sounds_data/cover/16/16e942afa9af6bbc30585b8f716fffde25b210e092aa6868381c619e51fa5d02.webp",
+      "period_days": 30,
+      "tokchart_url": "https://tokchart.com/sounds/original-sound-harpsspams00_7709241492145752845"
+    },
+    {
+      "rank": 9,
+      "title": "Original audio",
       "artist": "by ɴᴏᴄʜᴇᴅᴇꜱᴀʟꜱᴀ",
       "clip_id": "7105744103429671686",
       "tiktok_uses": 196000,
@@ -169,6 +193,18 @@
       "cover": "https://assets.tokchart.com/images/sounds_data/cover/70/709b8c75ae05cbc524d25c9350557e1bbdb87a1c9ca2acd9d43f5938293df343.webp",
       "period_days": 30,
       "tokchart_url": "https://tokchart.com/sounds/original-sound-nochedesalsa_7105744103429671686"
+    },
+    {
+      "rank": 10,
+      "title": "Original audio",
+      "artist": "by yel ✮⋆˙",
+      "clip_id": "7676097031270877968",
+      "tiktok_uses": 251000,
+      "tiktok_uses_24h": 24200,
+      "tiktok_link": "https://www.tiktok.com/music/-7676097031270877968",
+      "cover": "https://assets.tokchart.com/images/sounds_data/cover/6c/6ca16c7d1bbab6e5de8b26e88a0b3fe412e77f58a1b8f607f2e3e6eec55c6c9a.webp",
+      "period_days": 30,
+      "tokchart_url": "https://tokchart.com/sounds/vie-original-sound-silverscreenbaby_7676097031270877968"
     }
   ]
 }
