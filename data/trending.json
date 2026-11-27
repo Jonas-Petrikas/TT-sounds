@@ -1,8 +1,8 @@
 {
-  "scraped_at": "2026-11-27T10:56:27.737778+00:00",
+  "scraped_at": "2026-11-27T22:44:30.466763+00:00",
   "region": "US",
   "source": "tokchart.com",
-  "count": 12,
+  "count": 15,
   "lenses": [
     {
       "period_days": 7,
@@ -36,7 +36,7 @@
       "tiktok_link": "https://www.tiktok.com/music/-7709241492145752845",
       "cover": "https://assets.tokchart.com/images/sounds_data/cover/16/16e942afa9af6bbc30585b8f716fffde25b210e092aa6868381c619e51fa5d02.webp",
       "period_days": 7,
-      "tokchart_url": "https://tokchart.com/sounds/original-sound-harpsspams00_7709241492145752845"
+      "tokchart_url": "https://tokchart.com/sounds/original-sound-harperrosee24_7709241492145752845"
     },
     {
       "rank": 3,
@@ -132,7 +132,7 @@
       "tiktok_link": "https://www.tiktok.com/music/-7709241492145752845",
       "cover": "https://assets.tokchart.com/images/sounds_data/cover/16/16e942afa9af6bbc30585b8f716fffde25b210e092aa6868381c619e51fa5d02.webp",
       "period_days": 30,
-      "tokchart_url": "https://tokchart.com/sounds/original-sound-harpsspams00_7709241492145752845"
+      "tokchart_url": "https://tokchart.com/sounds/original-sound-harperrosee24_7709241492145752845"
     },
     {
       "rank": 6,
@@ -157,6 +157,42 @@
       "cover": "https://assets.tokchart.com/images/sounds_data/cover/6c/6ca16c7d1bbab6e5de8b26e88a0b3fe412e77f58a1b8f607f2e3e6eec55c6c9a.webp",
       "period_days": 30,
       "tokchart_url": "https://tokchart.com/sounds/vie-original-sound-silverscreenbaby_7676097031270877968"
+    },
+    {
+      "rank": 8,
+      "title": "Original audio",
+      "artist": "by Mr Eazi",
+      "clip_id": "7700618696846314262",
+      "tiktok_uses": 144000,
+      "tiktok_uses_24h": 55900,
+      "tiktok_link": "https://www.tiktok.com/music/-7700618696846314262",
+      "cover": "https://assets.tokchart.com/images/sounds_data/cover/0c/0c2110df6e3c437cd356ddfb27e82771b08c00292db182d00af62724b4fd294c.webp",
+      "period_days": 30,
+      "tokchart_url": "https://tokchart.com/sounds/mr-eazi-original-sound-mreazi_7700618696846314262"
+    },
+    {
+      "rank": 9,
+      "title": "Ghazali",
+      "artist": "elyanna",
+      "clip_id": "7704144386930591796",
+      "tiktok_uses": 38000,
+      "tiktok_uses_24h": 8000,
+      "tiktok_link": "https://www.tiktok.com/music/-7704144386930591796",
+      "cover": "https://assets.tokchart.com/images/sounds_data/cover/4b/4bbaf60d63226bb1a56aeba129a0ff42a97723a605e4d32d149b51dd4db5d86a.webp",
+      "period_days": 30,
+      "tokchart_url": "https://tokchart.com/sounds/elyanna-ghazali_7704144386930591796"
+    },
+    {
+      "rank": 10,
+      "title": "Living in the Dark (Evil Larry Version)",
+      "artist": "Myuu",
+      "clip_id": "7655417722492176385",
+      "tiktok_uses": 54000,
+      "tiktok_uses_24h": 2600,
+      "tiktok_link": "https://www.tiktok.com/music/-7655417722492176385",
+      "cover": "https://assets.tokchart.com/images/sounds_data/cover/30/304bded7328f2e00b886c8a626b9342c8ec8deccf046a08877e7edec65d5a670.webp",
+      "period_days": 30,
+      "tokchart_url": "https://tokchart.com/sounds/myuu-living-in-the-dark-evil-larry-version_7655417722492176385"
     }
   ]
 }
